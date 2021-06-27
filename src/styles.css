@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.App {
+  font-family: cursive;
+  text-align: center;
+}

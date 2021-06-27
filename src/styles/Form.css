@@ -1,0 +1,43 @@
+body {
+  background-color: skyblue;
+}
+header {
+  color: white;
+  display: flex;
+  justify-content: center;
+  min-height: 10vh;
+  font-family: cursive;
+}
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form input {
+  height: 50px;
+  width: 350px;
+  border: none;
+  font-size: 30px;
+  font-family: cursive;
+  border: 0px;
+}
+.form button {
+  height: 50px;
+  width: 40px;
+  color: skyblue;
+  background-color: white;
+  font-size: 30px;
+}
+.form button:hover {
+  background-color: skyblue;
+  color: white;
+}
+.form select {
+  height: 50px;
+  margin-left: 30px;
+  font-size: 15px;
+  font-family: cursive;
+}
+.form select option {
+  background-color: white;
+}
